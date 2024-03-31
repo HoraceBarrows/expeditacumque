@@ -1,0 +1,31 @@
+{
+  "name": "expeditacumque",
+  "version": "1.0.0",
+  "description": "SendBird JavaScript SDK",
+  "main": "SendBird.min.js",
+  "dependencies": {
+    "ws": "6.0.0",
+    "xhr2": "0.1.4",
+    "agentkeepalive": "2.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoraceBarrows/expeditacumque.git"
+  },
+  "keywords": [
+    "sendbird",
+    "ea",
+    "messaging",
+    "voluptatibus",
+    "voluptatem"
+  ],
+  "author": "BellaKilback",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/HoraceBarrows/expeditacumque.git/issues"
+  },
+  "typings": "SendBird.d.ts"
+}
